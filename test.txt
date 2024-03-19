@@ -1,0 +1,8 @@
+num_data = [12, 21, 36, 48, 57, 68, 73, 84, 95]
+word = "Tennessee"
+
+num_data = [19, 28, 33, 75, 81, 106, 111]
+word = "Massachusetts"
+
+num_data = [9, 15, 22, 37, 45, 50, 69]
+word = "California"
